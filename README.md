@@ -13,9 +13,9 @@ Mods for A20 Stock camera-feature.xml based on [S21 Ultra 5G Configs](https://gi
 
 - [Latest Module](https://github.com/ngdplnk/a20_stockcammods/releases/latest)
 
-- [Latest camera-feature.xml](https://github.com/ngdplnk/a20_stockcammods/blob/main/XMLs/camera-feature.xml)
+- [Latest camera-feature.xml](https://github.com/ngdplnk/a20_stockcammods/blob/main/XMLs/oneui/camera-feature.xml)
 
-- [STOCK camera-feature.xml](https://github.com/ngdplnk/a20_stockcammods/blob/main/XMLs/camera-featureSTOCK.xml)
+- [STOCK camera-feature.xml](https://github.com/ngdplnk/a20_stockcammods/blob/main/XMLs/oneui/camera-featureSTOCK.xml)
 
 
 ## FOR A20 ONLY - BY [@ngdplnk](https://github.com/ngdplnk)
